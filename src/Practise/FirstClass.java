@@ -17,7 +17,9 @@ public class FirstClass {
 		System.out.println("Tax           : " +tax);
 		System.out.println("Insurance     : " +insu);
 		System.out.println("Incentive     : " +incent);
+		System.out.println("=================================");
 		System.out.println("Total Salary  : " +totSalary);
+		System.out.println("---------------------------------");
 
 	}
 
